@@ -1,6 +1,6 @@
 # Seasonal Garden Planner
 
-This is a gardening planner web application that allows gardeners to select vegetables they want to grow from an admin controlled plant database and receive planting guidance. This site allows beginner gardeners, as **visitors** to the site, who want simple planting guidance, to be able to browse plants and view planting information organized by seasons. This site will also allow **registered users** to create and manage personal planting reminders for their gardens, manage and edit a schedule and receive guidance tailored to their garden growing plans.
+This is a gardening planner web application that allows all users to select vegetables they want to grow from an admin controlled plant database and receive planting guidance. This site allows beginner gardeners, as **visitors** to the site, who want simple planting guidance, to be able to browse plants and view planting information organized by seasons. This site will also allow **registered users** to create and manage personal planting reminders for their gardens, manage and edit a schedule and receive guidance tailored to their garden growing plans.
 
 # User Experience
 
@@ -69,6 +69,21 @@ This is a gardening planner web application that allows gardeners to select vege
 
 ### User Story 4.5: Manage Seasonal Information
 - As an **admin** I want to **assign and update seasonal planting information** so that **users get accurate planting guidance**
+
+
+## Epic 5: UI/UX Enhancements
+
+### User Story 5.1: Responsive Design
+- As a **user on any device** I want to **access the site on mobile, tablet, or desktop** so that **I can use the gardening planner anywhere**
+
+### User Story 5.2: User Navigation
+- As a **user** I want to **easily navigate between different sections** so that **I can find information quickly**
+
+### User Story 5.3: Visual Feedback
+- As a **user** I want to **receive visual confirmation of my actions** so that **I know when operations succeed or fail**
+
+### User Story 5.4: Loading States
+- As a **user** I want to ** see loading indicators during operations** so that **I know the system is working**
 
 
 

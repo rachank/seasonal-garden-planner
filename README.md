@@ -92,8 +92,16 @@ This is a gardening planner web application that allows all users to select vege
 - As a **user** I want to **receive clear error messages for invalid input** so that **I can correct my mistakes**
 
 ### User Story 6.2: Data Integrity
-- As a **developer** I want to **ensure database integrity** so that **the application remains stable and reliable**
+- As an **developer** I want to **ensure database integrity** so that **the application remains stable and reliable**
 
+
+## Epic 7: Testing & Deployment
+
+### User Story 7.1: Automated Testing
+- As a **developer** I want to **have automated tests** so that **I can catch bugs early and deploy confidently**
+
+### User Story 7.2: Deployment
+- As a **developer** I want to **deploy the application to production** so that **users can access it online**
 
 
 

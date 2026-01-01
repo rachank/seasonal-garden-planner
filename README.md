@@ -1,26 +1,56 @@
 # Seasonal Garden Planner
 
-This is a gardening planner web application that allows gardeners to select vegetables they want to grow from an admin controlled plant database and receive planting guidance. This site allows beginner gardeners, as visitors to the site, who want simple planting guidance, to be able to browse plants and view planting information organized by seasons. This site will also allow registered users to create and manage personal planting reminders for their gardens, manage and edit a schedule and receive guidance tailored to their garden growing plans.
+This is a gardening planner web application that allows gardeners to select vegetables they want to grow from an admin controlled plant database and receive planting guidance. This site allows beginner gardeners, as **visitors** to the site, who want simple planting guidance, to be able to browse plants and view planting information organized by seasons. This site will also allow **registered users** to create and manage personal planting reminders for their gardens, manage and edit a schedule and receive guidance tailored to their garden growing plans.
 
 # User Experience
 
 ## Epic 1: Plant Database & Browsing
 
 ### User Story 1.1: Browse Vegetables
-
 - As a **visitor** I can **view a list of available vegetables** so that **I can see what plants I could grow in my garden**
 
 ### User Story 1.2: View Vegetable Details
-
 - As a **visitor** I can **click on a vegetable to see detailed information** so that **I can learn about growing requirements and planting times**
 
 ### User Story 1.3: Filter by Season
 - As a **visitor** I want to **filter vegetables by planting season** so that **I can see what to plant at the current time of year**
 
-### User Story 1.4: Search Vegetables
+### User Story 1.4: Search Vegetable
 - As a **visitor** I want to **search for vegetables by name** so that **I can quickly find specific plants**
 
 
+
 ## Epic 2: User Authentication
+
+### User Story 2.1: User Registration
+- As a **new user** I want to **create an account** so that **I can access personalized features**
+
+### User Story 2.2: User Login
+- As a **registered user** I want to **log into my account** so that **I can access my personal planting reminders**
+
+### User Story 2.3: User Logout
+- As a **logged-in user** I want to **log out of my account** so that **I can secure my account when finished**
+
+### User Story 2.4: Password Reset
+- As a **user who forgot my password** I want to **reset my password via email** so that **I can regain access to my account**
+
+
+## Epic 3: Planting Reminders
+
+### User Story 3.1: Create Planting Reminder
+- As a **registered user** I want to **create a planting reminder for a specific vegetable** so that **I don't forget when to plant it**
+
+### User Story 3.2: View My Reminders
+- As a **registered user** I want to **see a list of all my planting reminders** so that **I can track what I need to plant and when**
+
+### User Story 3.3: Edit Planting Reminder
+- As a **registered user** I want to **edit my existing reminders** so that **I can update planting dates or notes as needed**
+
+### User Story 3.4: Delete Planting Reminder
+- As a **registered user** I want to **delete reminders I no longer need** so that **I can keep my reminder list current and relevant**
+
+### User Story 3.5: Mark Reminder as Complete
+- As a **registered user** I want to **mark reminders as complete when I've planted** so that **I can track what I've already planted**
+
 
 

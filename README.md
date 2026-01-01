@@ -17,5 +17,10 @@ This is a gardening planner web application that allows gardeners to select vege
 ### User Story 1.3: Filter by Season
 - As a **visitor** I want to **filter vegetables by planting season** so that **I can see what to plant at the current time of year**
 
+### User Story 1.4: Search Vegetables
+- As a **visitor** I want to **search for vegetables by name** so that **I can quickly find specific plants**
+
+
+## Epic 2: User Authentication
 
 

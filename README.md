@@ -86,6 +86,16 @@ This is a gardening planner web application that allows all users to select vege
 - As a **user** I want to ** see loading indicators during operations** so that **I know the system is working**
 
 
+## Epic 6: Data & Validation
+
+### User Story 6.1: Form Validation
+- As a **user** I want to **receive clear error messages for invalid input** so that **I can correct my mistakes**
+
+### User Story 6.2: Data Integrity
+- As a **developer** I want to **ensure database integrity** so that **the application remains stable and reliable**
+
+
+
 
 
 

@@ -53,4 +53,24 @@ This is a gardening planner web application that allows gardeners to select vege
 - As a **registered user** I want to **mark reminders as complete when I've planted** so that **I can track what I've already planted**
 
 
+## Epic 4: Admin Functionality
+
+### User Story 4.1: Admin Login
+- As an **admin** I want to **access the admin panel** so that **I can manage the plant database**
+
+### User Story 4.2: Add Vegetables to Database
+- As an **admin** I want to **add new vegetables to the database** so that ** users have access to a comprehensive plant library**
+
+### User Story 4.3: Edit Vegetable Information
+- As an **admin** I want to **edit existing vegetable information** so that **I can keep the database accurate and up-to-date**
+
+### User Story 4.4: Delete Vegetables from Database
+- As an **admin** I want to **delete vegetables that are no longer needed** so that **the database stays relevant and organized**
+
+### User Story 4.5: Manage Seasonal Information
+- As an **admin** I want to **assign and update seasonal planting information** so that **users get accurate planting guidance**
+
+
+
+
 
